@@ -3,7 +3,7 @@
   ![badge](https://img.shields.io/badge/license-MIT-blue)<br>
   
   ## Description
-This project utilizes Node.js and MongoDB in order to create a simple api capable of capturing a user's information, posting thought, adding reactions to those thought and also creating a friends list! 
+This project utilizes Node.js and MongoDB in order to create a simple api capable of capturing a user's information, posting thoughts, adding reactions to those thoughts and also creating a friends list! 
   <br>
   
   ## Table of Contents
